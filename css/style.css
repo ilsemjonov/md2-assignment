@@ -28,7 +28,7 @@ p.content {
 
 .box {
     background-color: #949494;
-    margin: 1.6%;
+    margin: 1%;
 }
 
 .title {
@@ -61,7 +61,7 @@ p.content {
     .col-lg-4 {
         float: left;
         border: 1px solid;
-        width: 30%;
+        width: 31.33%;
     }
 }
 
@@ -72,10 +72,10 @@ p.content {
         border: 1px solid;
     }
     .col-md-6 {
-        width: 46.4%;
+        width: 48%;
     }
     .col-md-12 {
-        width: 96%;
+        width: 98%;
     }
 }
 
@@ -84,6 +84,6 @@ p.content {
     .col-sm-12 {
         float: left;
         border: 1px solid;
-        width: 95%;
+        width: 98%;
     }
 }
